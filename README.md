@@ -43,12 +43,6 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 REACT_APP_TELEGRAM_BOT_USERNAME=your_bot_username
 ```
 
-### Backend
-```env
-BOT_TOKEN=your_bot_token
-ALLOWED_ORIGINS=http://localhost:3000
-```
-
 ## Development
 
 ### Using Docker Compose
