@@ -1,6 +1,5 @@
 # Telegram Mini App
 
-![CI](https://github.com/NewalexOA/telegram-mini-app/workflows/CI/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Telegram Mini App built with React (Frontend) and Flask (Backend).
